@@ -12,8 +12,6 @@ import {PhotoView} from 'myPhoto';
     directives: [PhotoView]
 })
 class MyApp {
-    constructor() {
-    }
 }
 
 bootstrap(MyApp);
